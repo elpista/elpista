@@ -10,5 +10,5 @@ The tecnologies that i use are: **nodeJS, ReactJS, Redux, Express, PostgreSQL, H
 
 **Connect whith me:** 
 <p>
-<a href="https://linkedin.com/in/marco-pistagnesi-0a3993243/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marco-pistagnesi-0a3993243/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marco-pistagnesi-0a3993243/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marco-pistagnesi-0a3993243/" height="50" width="70" /></a>
 </p>

@@ -8,4 +8,7 @@ The tecnologies that i use are: **nodeJS, ReactJS, Redux, Express, PostgreSQL, H
 
 📫 How to reach me **marcopistagnesi2003@gmail.com**
 
-**Connect whith me:**
+**Connect whith me:** 
+<p>
+  <a><img/></a>
+</p>

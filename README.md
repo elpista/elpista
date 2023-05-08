@@ -4,10 +4,14 @@
   
 <h1 align="center">I'm a Full Stack Web Developer who loves to code ¡and even more if is in a team of programmers!. I mainly work with Node.js, ReactJS, Redux, Express, PostgreSQL, HTML, and CSS.</h1>
 
-<h3>📫 How to reach me:</h3> 
-**marcopistagnesi2003@gmail.com**
+<h2>🌱 I’m currently learning ...</h2>
+php on university
 
+<h2>📫 How to reach me:</h2> 
+marcopistagnesi2003@gmail.com
+<br/>
 **Connect whith me:** 
 <p>
 <a href="https://linkedin.com/in/marco-pistagnesi-0a3993243/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marco-pistagnesi-0a3993243/" height="50" width="70" /></a>
+Feel free to connect with me on LinkedIn! I am always looking to expand my network and collaborate with fellow developers.
 </p>

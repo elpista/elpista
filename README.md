@@ -1,4 +1,4 @@
-<strong>Hi there, I am Marco Pistagnesi 👋</strong>
+<p size="big"><strong>Hi there, I am Marco Pistagnesi 👋</strong></p>
 
 <img width="600" height="400" align="center" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" alt="animacionProgramacion"/>
   

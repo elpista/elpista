@@ -28,3 +28,4 @@ Connect whith me:
 <br/>
 Feel free to connect with me on LinkedIn! I am always looking to expand my network and collaborate with fellow developers.
 </p>
+

@@ -4,7 +4,8 @@
   
 <h1 align="center">I'm a Full Stack Web Developer who loves to code ¡and even more if is in a team of programmers!. I mainly work with Node.js, ReactJS, Redux, Express, PostgreSQL, HTML, and CSS.</h1>
 
-📫 How to reach me: **marcopistagnesi2003@gmail.com**
+<h3>📫 How to reach me:</h3> 
+**marcopistagnesi2003@gmail.com**
 
 **Connect whith me:** 
 <p>

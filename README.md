@@ -10,7 +10,19 @@ php on university
 <h2>📫 How to reach me:</h2> 
 marcopistagnesi2003@gmail.com
 <br/>
-**Connect whith me:** 
+<h2>🚀 Skills:</h2>
+<ul>
+<li>JavaScript (ES6+)</li>
+<li>Node.js</li>
+<li>ReactJS</li>
+<li>Redux</li>
+<li>Express</li>
+<li>PostgreSQL</li>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
+<br/>
+Connect whith me: 
 <p>
 <a href="https://linkedin.com/in/marco-pistagnesi-0a3993243/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marco-pistagnesi-0a3993243/" height="50" width="70" /></a>
 <br/>

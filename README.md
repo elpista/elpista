@@ -13,5 +13,6 @@ marcopistagnesi2003@gmail.com
 **Connect whith me:** 
 <p>
 <a href="https://linkedin.com/in/marco-pistagnesi-0a3993243/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marco-pistagnesi-0a3993243/" height="50" width="70" /></a>
+<br/>
 Feel free to connect with me on LinkedIn! I am always looking to expand my network and collaborate with fellow developers.
 </p>

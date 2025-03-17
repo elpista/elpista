@@ -6,6 +6,8 @@
 
 <h2><span style="font-weight: bold">🌱 I graduated as:</span></h2>
 <p><span style="font-style: italic">University Technician in Web Development from the National University of Comahue (UNCO)</span></p>
+<br/>
+<p><span style="font-style: italic">Fullstack web developer from the: "SoyHenry" bootcamp.</span></p>
 
 <h2><span style="font-weight: bold">📫 How to reach me:</span></h2>
 <p><span style="font-style: italic">marcopistagnesi2003@gmail.com</span></p>

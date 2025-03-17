@@ -2,10 +2,10 @@
 
 <img width="600" height="400" align="center" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" alt="animacionProgramacion"/>
 
-<h1 align="center"><span style="font-weight: bold">I'm a Full Stack Web Developer who loves to code</span><span style="font-style: italic"> and even more if is in a team of programmers!</span> I mainly work with Node.js, ReactJS, Redux, Express, PostgreSQL, HTML, and CSS.</h1>
+<h1 align="center"><span style="font-weight: bold">I'm a Full Stack Web Developer who loves to code</span><span style="font-style: italic"> and even more if is in a team!</span> I mainly work with Node.js, ReactJS, Redux, Express, PostgreSQL, MySQL, and Laravel.</h1>
 
-<h2><span style="font-weight: bold">🌱 I’m currently learning ...</span></h2>
-<p><span style="font-style: italic">php on university</span></p>
+<h2><span style="font-weight: bold">🌱 I graduated as:</span></h2>
+<p><span style="font-style: italic">University Technician in Web Development from the National University of Comahue (UNCO)</span></p>
 
 <h2><span style="font-weight: bold">📫 How to reach me:</span></h2>
 <p><span style="font-style: italic">marcopistagnesi2003@gmail.com</span></p>

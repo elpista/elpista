@@ -18,8 +18,8 @@
   <li><span style="font-weight: bold">Redux</span></li>
   <li><span style="font-weight: bold">Express</span></li>
   <li><span style="font-weight: bold">PostgreSQL</span></li>
-  <li><span style="font-weight: bold">HTML</span></li>
-  <li><span style="font-weight: bold">CSS</span></li>
+  <li><span style="font-weight: bold">Laravel</span></li>
+  <li><span style="font-weight: bold">MySQL</span></li>
 </ul>
 
 <p>Connect with me:</p>

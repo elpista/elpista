@@ -5,7 +5,7 @@
 <h1 align="center"><span style="font-weight: bold">I'm a Full Stack Web Developer who loves to code</span><span style="font-style: italic"> and even more if is in a team!</span> I mainly work with Node.js, ReactJS, Redux, Express, PostgreSQL, MySQL, and Laravel.</h1>
 
 <h2><span style="font-weight: bold">🌱 I graduated as:</span></h2>
-<p><span style="font-style: italic">University Technician in Web Development from the National University of Comahue (UNCO)</span></p>
+<p><span style="font-style: italic"><b>University Technician in Web Development</b> from the National University of Comahue (UNCO)</span></p>
 <br/>
 <p><span style="font-style: italic">Fullstack web developer from the: "SoyHenry" bootcamp.</span></p>
 

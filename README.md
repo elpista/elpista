@@ -25,8 +25,9 @@
 <p>Connect with me:</p>
 <p>
   <a href="https://linkedin.com/in/marco-pistagnesi-0a3993243/" target="_blank">
-    My Linkedin
+    Linkedin
   </a>
+  <br/>
   <br/>
   <span style="font-style: italic">Feel free to connect with me on LinkedIn! I am always looking to expand my network and collaborate with fellow developers.</span>
 </p>
